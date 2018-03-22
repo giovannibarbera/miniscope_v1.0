@@ -1,0 +1,6 @@
+"Name","Component","Side","Centre X","Centre Y","Rotation"
+"LED2","LED_BLUE_0805","Top","1.72","-3.46","0.00"
+"LED3","LED_BLUE_0805","Top","14.72","-3.46","0.00"
+"LED4","LED_BLUE_0805","Top","21.22","-3.46","0.00"
+"LED1","LED_GREEN_0805","Top","8.22","-3.46","0.00"
+"U1","Molex_0908140906","Bottom","11.78","-4.51","0.00"

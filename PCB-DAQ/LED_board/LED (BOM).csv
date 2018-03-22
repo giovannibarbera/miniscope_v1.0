@@ -1,0 +1,6 @@
+Ref Name,Qty,Component,Value,Side,Manufacturer,Manufacturer part number,Distributor,Distributor part number,Description,Price,Ext price
+LED1,1,LED_GREEN_0805,,Top,Lite-On,LTST-C171GKT,Digikey,160-1423-1-ND,LED GREEN CLEAR THIN 0805 SMD,0.3,0.3
+LED2 LED3 LED4,3,LED_BLUE_0805,,Top,Lite-On,LTST-C171TBKT,Digikey,160-1645-1-ND,LED 468NM BLUE CLEAR 0805 SMD,0.44,1.32
+U1,1,Molex_0908140906,,Bottom,Molex,908140906,Digikey,WM3638CT-ND,CONN HEADER 6POS 1.27MM VERT SMD,1.16,1.16
+,,,,,,,,,,,
+,,,,,,,,,,Tot.,2.78

@@ -1,0 +1,7 @@
+Ref Name,Qty,Component,Value,Side,Manufacturer,Manufacturer part number,Distributor,Distributor part number,Description,Price,Ext price
+TRIG LED,2,CONN2_THROUGH_2MM,,Top,Harwin,M80-8520242,Digikey,952-1769-ND,02 SIL MALE CONNECTOR,1.19,2.38
+CONN10,1,CONN10_THROUGH_2MM,,Top,Harwin,M80-8691022,Digikey,952-2405-5-ND,CONN HDR 2MM VERT DUAL 10POS,2.67,2.67
+CONN25,1,CONN25_FLAT_2013928-8,,Bottom,TE Connectivity,2013928-8,Digikey,A100213CT-ND,CONN FPC 25POS .3MM FLIP LOC SMD,1.27,1.27
+OMNV10,1,OMNETICS_PNZ_10_VV_SMT,,Top,Omnetics,A79617-001,Omnetics,A79617-001,OMNETICS PZN-10-VV,29,29
+,,,,,,,,,,,
+,,,,,,,,,,Tot.,35.32

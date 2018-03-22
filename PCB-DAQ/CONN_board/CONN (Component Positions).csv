@@ -1,0 +1,6 @@
+"Name","Component","Side","Centre X","Centre Y","Rotation"
+"LED","CONN2_THROUGH_2MM","Top","887","-199","0.00"
+"TRIG","CONN2_THROUGH_2MM","Top","1273","-199","0.00"
+"CONN10","CONN10_THROUGH_2MM","Top","381","-185","0.00"
+"CONN25","CONN25_FLAT_2013928-8","Bottom","1933","-203","0.00"
+"OMNV10","OMNETICS_PNZ_10_VV_SMT","Top","1649","-197","90.00"
